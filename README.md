@@ -1,9 +1,5 @@
 # plataforma_ong_2
 
-Perfeito! Aqui está uma versão **resumida e direta** do README, ideal para o GitHub:
-
----
-
 # Instituto Esperança – Experiência Prática II
 
 Site fictício para a ONG *Instituto Esperança*, desenvolvido como parte da **Entrega II – Estilização e Leiautes** da disciplina de CSS3. O projeto demonstra interface profissional, responsiva e acessível, utilizando **CSS Grid, Flexbox e sistema de design**.
